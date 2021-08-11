@@ -834,7 +834,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-11,I66787,136_S_0426,AD,M,81,4,MRI,MPR; ; N3; Scaled,Processed,6/04/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+11,I66787,136_S_0426,AD,M,81,4,MRI,MPR; ; N3; Scaled,Processed,6/04/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 4.55362771e-03 -3.63538423e-02 -1.20402336e+00  1.06551987e+02]
@@ -911,7 +911,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-12,I119731,136_S_0426,AD,M,80,2,MRI,MPR; ; N3; Scaled_2,Processed,5/30/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+12,I119731,136_S_0426,AD,M,80,2,MRI,MPR; ; N3; Scaled_2,Processed,5/30/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.43430693e-08  2.61642763e-04 -1.20315285e+00  1.01399742e+02]
@@ -988,7 +988,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-13,I40378,136_S_0426,AD,M,80,2,MRI,MPR; ; N3; Scaled,Processed,5/30/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+13,I40378,136_S_0426,AD,M,80,2,MRI,MPR; ; N3; Scaled,Processed,5/30/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.43430693e-08  2.59967126e-04 -1.20315285e+00  1.01399742e+02]
@@ -1065,7 +1065,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-14,I66773,136_S_0426,AD,M,80,3,MRI,MPR; ; N3; Scaled,Processed,11/20/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+14,I66773,136_S_0426,AD,M,80,3,MRI,MPR; ; N3; Scaled,Processed,11/20/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-7.66438413e-08 -7.53319025e-02 -1.20010878e+00  1.10719086e+02]
@@ -1136,7 +1136,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-15,I40352,136_S_0300,AD,M,57,2,MRI,MPR-R; ; N3; Scaled,Processed,6/07/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+15,I40352,136_S_0300,AD,M,57,2,MRI,MPR-R; ; N3; Scaled,Processed,6/07/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-3.69474298e-08  3.88454492e-02 -1.20218245e+00  9.32872314e+01]
@@ -1207,7 +1207,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-16,I66768,136_S_0300,AD,M,58,4,MRI,MPR; ; N3; Scaled,Processed,5/29/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+16,I66768,136_S_0300,AD,M,58,4,MRI,MPR; ; N3; Scaled,Processed,5/29/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 4.47850757e-03  8.92858183e-02 -1.19951870e+00  8.69016342e+01]
@@ -1278,7 +1278,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-17,I66754,136_S_0300,AD,M,57,3,MRI,MPR; ; N3; Scaled,Processed,11/13/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+17,I66754,136_S_0300,AD,M,57,3,MRI,MPR; ; N3; Scaled,Processed,11/13/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 4.19612740e-02  3.49965943e-02 -1.20163198e+00  8.87236481e+01]
@@ -1355,7 +1355,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-18,I119729,136_S_0300,AD,M,57,2,MRI,MPR-R; ; N3; Scaled_2,Processed,6/07/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+18,I119729,136_S_0300,AD,M,57,2,MRI,MPR-R; ; N3; Scaled_2,Processed,6/07/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-7.53511679e-09  3.91004192e-02 -1.20219424e+00  9.32872314e+01]
@@ -2099,7 +2099,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-28,I122703,136_S_0194,AD,F,81,3,MRI,MPR; ; N3; Scaled,Processed,10/16/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+28,I122703,136_S_0194,AD,F,81,3,MRI,MPR; ; N3; Scaled,Processed,10/16/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 5.69998048e-02 -1.47169122e-02 -1.20128608e+00  8.95084381e+01]
@@ -2176,7 +2176,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-29,I119718,136_S_0194,AD,F,81,2,MRI,MPR; ; N3; Scaled_2,Processed,4/24/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+29,I119718,136_S_0194,AD,F,81,2,MRI,MPR; ; N3; Scaled_2,Processed,4/24/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-1.22071076e-08  3.83787357e-02 -1.20328880e+00  9.64131088e+01]
@@ -2253,7 +2253,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-30,I138885,136_S_0194,AD,F,82,4,MRI,MPR; ; N3; Scaled,Processed,4/02/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+30,I138885,136_S_0194,AD,F,82,4,MRI,MPR; ; N3; Scaled,Processed,4/02/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-9.02176284e-08 -5.65919882e-02 -1.20199563e+00  1.10527893e+02]
@@ -2324,7 +2324,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-31,I40248,136_S_0194,AD,F,81,2,MRI,MPR; ; N3; Scaled,Processed,4/24/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+31,I40248,136_S_0194,AD,F,81,2,MRI,MPR; ; N3; Scaled,Processed,4/24/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-3.76802487e-08  3.81668935e-02 -1.20327903e+00  9.64131088e+01]
@@ -3086,7 +3086,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-41,I65520,130_S_1337,AD,M,72,2,MRI,MPR; ; N3; Scaled,Processed,3/22/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+41,I65520,130_S_1337,AD,M,72,2,MRI,MPR; ; N3; Scaled,Processed,3/22/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44700583e-08  2.63099849e-04 -1.20507773e+00  1.01399742e+02]
@@ -3157,7 +3157,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-42,I80965,130_S_1337,AD,M,72,3,MRI,MPR; ; N3; Scaled,Processed,9/26/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+42,I80965,130_S_1337,AD,M,72,3,MRI,MPR; ; N3; Scaled,Processed,9/26/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44762196e-08  2.63099811e-04 -1.20509084e+00  1.01399742e+02]
@@ -3234,7 +3234,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-43,I101972,130_S_1337,AD,M,72,4,MRI,MPR; ; N3; Scaled,Processed,3/10/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+43,I101972,130_S_1337,AD,M,72,4,MRI,MPR; ; N3; Scaled,Processed,3/10/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44800185e-08  2.63091666e-04 -1.20508297e+00  1.03619324e+02]
@@ -3523,7 +3523,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-47,I82700,130_S_0956,AD,F,65,4,MRI,MPR; ; N3; Scaled,Processed,11/01/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+47,I82700,130_S_0956,AD,F,65,4,MRI,MPR; ; N3; Scaled,Processed,11/01/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44810793e-08  2.63070446e-04 -1.20486768e+00  9.50991821e+01]
@@ -3594,7 +3594,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-48,I39200,130_S_0956,AD,F,64,2,MRI,MPR; ; N3; Scaled,Processed,11/06/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+48,I39200,130_S_0956,AD,F,64,2,MRI,MPR; ; N3; Scaled,Processed,11/06/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44606123e-08  2.62919538e-04 -1.20388373e+00  1.01399742e+02]
@@ -3671,7 +3671,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-49,I83806,130_S_0956,AD,F,64,3,MRI,MPR; ; N3; Scaled,Processed,4/16/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+49,I83806,130_S_0956,AD,F,64,3,MRI,MPR; ; N3; Scaled,Processed,4/16/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44633828e-08  2.63081794e-04 -1.20513650e+00  9.84411621e+01]
@@ -5071,7 +5071,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-68,I82651,127_S_0844,AD,F,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/26/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+68,I82651,127_S_0844,AD,F,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/26/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.53269461e-08  2.66899696e-04 -1.21341057e+00  9.89999008e+01]
@@ -5142,7 +5142,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-69,I67261,127_S_0844,AD,F,86,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+69,I67261,127_S_0844,AD,F,86,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.52752194e-08  2.66978301e-04 -1.21518000e+00  1.02805000e+02]
@@ -5213,7 +5213,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-70,I83521,127_S_0844,AD,F,85,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/09/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+70,I83521,127_S_0844,AD,F,85,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/09/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.52766435e-08  2.66911223e-04 -1.21523698e+00  9.89999008e+01]
@@ -5923,7 +5923,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-80,I72873,126_S_0606,AD,F,70,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/30/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+80,I72873,126_S_0606,AD,F,70,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/30/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.53291005e-08  2.65931666e-04 -1.18879433e+00  1.05977997e+02]
@@ -5994,7 +5994,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-81,I48918,126_S_0606,AD,F,69,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+81,I48918,126_S_0606,AD,F,69,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.53582996e-08  2.65963726e-04 -1.18867918e+00  1.02807999e+02]
@@ -6065,7 +6065,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-82,I38887,126_S_0606,AD,F,69,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/14/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+82,I38887,126_S_0606,AD,F,69,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/14/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.53179081e-08  2.65986304e-04 -1.18903013e+00  1.02170998e+02]
@@ -6988,7 +6988,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-95,I59677,116_S_0487,AD,M,77,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,8/10/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+95,I59677,116_S_0487,AD,M,77,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,8/10/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42313123e-08  2.61821581e-04 -1.20528229e+00  9.26881332e+01]
@@ -7059,7 +7059,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-96,I89666,116_S_0487,AD,M,77,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,12/22/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+96,I89666,116_S_0487,AD,M,77,3,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,12/22/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41839761e-08  2.61753389e-04 -1.20660957e+00  9.36674194e+01]
@@ -7130,7 +7130,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-97,I92420,116_S_0487,AD,M,78,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/18/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+97,I92420,116_S_0487,AD,M,78,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/18/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42310757e-08  2.61815648e-04 -1.20482870e+00  1.01212990e+02]
@@ -7201,7 +7201,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-98,I72805,116_S_0392,AD,F,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/15/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+98,I72805,116_S_0392,AD,F,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/15/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[-1.74624118e-03  2.50984949e-04 -1.20495049e+00  8.61317139e+01]
@@ -7272,7 +7272,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-99,I89653,116_S_0392,AD,F,85,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/04/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+99,I89653,116_S_0392,AD,F,85,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/04/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41740159e-08  2.61685988e-04 -1.20653756e+00  9.13322067e+01]
@@ -7343,7 +7343,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-100,I53818,116_S_0392,AD,F,85,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,6/26/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+100,I53818,116_S_0392,AD,F,85,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,6/26/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42674603e-08  2.61649418e-04 -1.20313676e+00  9.74338989e+01]
@@ -9390,7 +9390,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
         59.20427322, 45.69596863],
        [ 0.        ,  0.        ,  0.        , ..., 40.71689987,
         49.47552109, 31.22879982]])]"
-128,I80303,067_S_1253,AD,F,63,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+128,I80303,067_S_1253,AD,F,63,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44731389e-08  2.60380348e-04 -1.20427783e+00  9.80142059e+01]
@@ -9461,7 +9461,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-129,I87150,067_S_1253,AD,F,63,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/30/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+129,I87150,067_S_1253,AD,F,63,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/30/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.45171579e-08  2.60879204e-04 -1.20307084e+00  9.40440674e+01]
@@ -9532,7 +9532,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-130,I106507,067_S_1253,AD,F,64,4,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/13/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+130,I106507,067_S_1253,AD,F,64,4,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/13/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.45061001e-08  2.61167307e-04 -1.20325442e+00  9.59803085e+01]
@@ -12826,7 +12826,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-176,I138797,032_S_1101,AD,F,71,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/23/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+176,I138797,032_S_1101,AD,F,71,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/23/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44305237e-08  2.59376138e-04 -1.20310195e+00  9.73362427e+01]
@@ -12896,7 +12896,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-177,I97069,032_S_1101,AD,F,72,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/06/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+177,I97069,032_S_1101,AD,F,72,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/06/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44441112e-08  2.59487982e-04 -1.20300837e+00  9.54000015e+01]
@@ -12967,7 +12967,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-178,I90976,032_S_1101,AD,F,71,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/25/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+178,I90976,032_S_1101,AD,F,71,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/25/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44525658e-08  2.59268745e-04 -1.20392402e+00  9.59803085e+01]
@@ -13250,7 +13250,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-182,I92205,031_S_1209,AD,F,73,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/08/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+182,I92205,031_S_1209,AD,F,73,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/08/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.43981460e-08  2.61782030e-04 -1.19985243e+00  9.19125137e+01]
@@ -13321,7 +13321,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-183,I90925,031_S_1209,AD,F,72,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+183,I90925,031_S_1209,AD,F,72,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44462371e-08  2.61591031e-04 -1.20307668e+00  9.46243744e+01]
@@ -13392,7 +13392,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-184,I76658,031_S_1209,AD,F,73,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/26/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+184,I76658,031_S_1209,AD,F,73,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/26/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.44091671e-08  2.61735422e-04 -1.20088204e+00  9.32684479e+01]
@@ -14029,7 +14029,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-193,I79577,027_S_1385,AD,F,70,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/26/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+193,I79577,027_S_1385,AD,F,70,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/26/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42658526e-08  2.60802565e-04 -1.20643206e+00  9.54000015e+01]
@@ -14100,7 +14100,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-194,I101541,027_S_1385,AD,F,71,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/26/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+194,I101541,027_S_1385,AD,F,71,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/26/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.43055912e-08  2.60661789e-04 -1.20615597e+00  9.54000015e+01]
@@ -14170,7 +14170,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-195,I65374,027_S_1385,AD,F,70,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/26/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+195,I65374,027_S_1385,AD,F,70,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/26/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42881354e-08  2.60033703e-04 -1.20738347e+00  9.74240952e+01]
@@ -14453,7 +14453,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-199,I47186,027_S_1082,AD,F,70,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/13/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+199,I47186,027_S_1082,AD,F,70,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/13/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42567819e-08  2.60690592e-04 -1.20709189e+00  9.33759003e+01]
@@ -14524,7 +14524,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-200,I86368,027_S_1082,AD,F,70,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/04/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+200,I86368,027_S_1082,AD,F,70,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/04/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42369636e-08  2.60650371e-04 -1.20648845e+00  9.60746994e+01]
@@ -14595,7 +14595,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-201,I86377,027_S_1082,AD,F,71,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/05/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+201,I86377,027_S_1082,AD,F,71,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/05/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.43372875e-08  2.60890776e-04 -1.20674046e+00  9.54000015e+01]
@@ -14666,7 +14666,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-202,I94432,027_S_1081,AD,M,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/11/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+202,I94432,027_S_1081,AD,M,86,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/11/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42721486e-08  2.60917571e-04 -1.20577677e+00  1.00797592e+02]
@@ -14737,7 +14737,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-203,I73937,027_S_1081,AD,M,85,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/16/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+203,I73937,027_S_1081,AD,M,85,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/16/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42308349e-08  2.60630843e-04 -1.20643445e+00  9.60746994e+01]
@@ -14808,7 +14808,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-204,I47177,027_S_1081,AD,M,85,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/08/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+204,I47177,027_S_1081,AD,M,85,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/08/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42529464e-08  2.60725688e-04 -1.20715435e+00  9.67493973e+01]
@@ -15310,7 +15310,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-211,I47545,027_S_0404,AD,F,88,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+211,I47545,027_S_0404,AD,F,88,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.43139437e-08  2.60662193e-04 -1.20624359e+00  9.54000015e+01]
@@ -15381,7 +15381,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-212,I34195,027_S_0404,AD,F,88,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+212,I34195,027_S_0404,AD,F,88,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42940887e-08  2.60364135e-04 -1.20530399e+00  9.54000015e+01]
@@ -15451,7 +15451,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-213,I87547,027_S_0404,AD,F,89,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+213,I87547,027_S_0404,AD,F,89,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/16/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.42939540e-08  2.59981935e-04 -1.20706804e+00  9.54000015e+01]
@@ -15953,7 +15953,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
          96.56546783,  30.36017609],
        [  0.        ,   0.        ,   0.        , ..., 142.39285278,
         105.68949127,   0.        ]])]"
-220,I77044,023_S_1262,AD,F,73,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/04/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+220,I77044,023_S_1262,AD,F,73,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/04/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41872628e-08  2.62792472e-04 -1.20765718e+00  9.54000015e+01]
@@ -16024,7 +16024,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-221,I118924,023_S_1262,AD,F,73,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,Processed,2/28/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+221,I118924,023_S_1262,AD,F,73,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled_2,Processed,2/28/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.40989863e-08  2.61643258e-04 -1.20505686e+00  8.54000015e+01]
@@ -16095,7 +16095,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-222,I103276,023_S_1262,AD,F,74,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/02/2008,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+222,I103276,023_S_1262,AD,F,74,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/02/2008,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.40982334e-08  2.61005078e-04 -1.20544561e+00  9.54000015e+01]
@@ -16166,7 +16166,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-223,I64862,023_S_1262,AD,F,73,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/28/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+223,I64862,023_S_1262,AD,F,73,2,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/28/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.40989863e-08  2.62284075e-04 -1.20505686e+00  8.54000015e+01]
@@ -18163,7 +18163,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-251,I118880,023_S_0916,AD,M,80,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,9/29/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+251,I118880,023_S_0916,AD,M,80,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,9/29/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41904455e-08  2.61644088e-04 -1.20499201e+00  9.54000015e+01]
@@ -18233,7 +18233,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-252,I31540,023_S_0916,AD,M,80,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/29/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+252,I31540,023_S_0916,AD,M,80,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/29/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41904455e-08  2.62452278e-04 -1.20499201e+00  9.54000015e+01]
@@ -18303,7 +18303,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-253,I118881,023_S_0916,AD,M,80,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,4/24/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+253,I118881,023_S_0916,AD,M,80,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,4/24/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41895213e-08  2.61644447e-04 -1.20574196e+00  9.54000015e+01]
@@ -18373,7 +18373,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-254,I64827,023_S_0916,AD,M,80,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/24/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+254,I64827,023_S_0916,AD,M,80,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/24/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41895213e-08  2.62119502e-04 -1.20574196e+00  9.54000015e+01]
@@ -18443,7 +18443,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-255,I80152,023_S_0916,AD,M,81,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/28/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+255,I80152,023_S_0916,AD,M,81,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/28/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41257534e-08  2.62234126e-04 -1.20616801e+00  9.54000015e+01]
@@ -20932,7 +20932,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-290,I119007,023_S_0139,AD,F,66,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,7/28/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+290,I119007,023_S_0139,AD,F,66,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,7/28/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41674098e-08  2.61644060e-04 -1.20521041e+00  9.54000015e+01]
@@ -21003,7 +21003,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-291,I31326,023_S_0139,AD,F,66,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/28/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+291,I31326,023_S_0139,AD,F,66,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/28/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41674098e-08  2.62422675e-04 -1.20521041e+00  9.54000015e+01]
@@ -21074,7 +21074,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-292,I31313,023_S_0139,AD,F,66,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/06/2006,NiFTI,7/28/2021,2,"<class 'nibabel.nifti1.Nifti1Image'>
+292,I31313,023_S_0139,AD,F,66,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/06/2006,NiFTI,7/28/2021,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41493705e-08  2.62571289e-04 -1.20574923e+00  9.54000015e+01]
@@ -21145,7 +21145,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-293,I52049,023_S_0139,AD,F,67,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/15/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+293,I52049,023_S_0139,AD,F,67,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/15/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41208937e-08  2.62380544e-04 -1.20530041e+00  9.54000015e+01]
@@ -21216,7 +21216,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-294,I118972,023_S_0139,AD,F,66,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,2/06/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+294,I118972,023_S_0139,AD,F,66,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,2/06/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (240, 256, 160)
 affine: 
 [[ 3.41493705e-08  2.61644185e-04 -1.20574923e+00  9.54000015e+01]
@@ -23490,7 +23490,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-326,I35039,018_S_0633,AD,M,83,2,MRI,MPR; ; N3; Scaled,Processed,7/17/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+326,I35039,018_S_0633,AD,M,83,2,MRI,MPR; ; N3; Scaled,Processed,7/17/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47211225e-08  2.60588357e-04 -1.20423527e+00  1.01399742e+02]
@@ -23567,7 +23567,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-327,I79139,018_S_0633,AD,M,84,3,MRI,MPR; ; N3; Scaled,Processed,1/19/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+327,I79139,018_S_0633,AD,M,84,3,MRI,MPR; ; N3; Scaled,Processed,1/19/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47241380e-08  2.60845375e-04 -1.20619126e+00  1.12494415e+02]
@@ -23638,7 +23638,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-328,I71451,018_S_0633,AD,M,84,4,MRI,MPR; ; N3; Scaled,Processed,7/17/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+328,I71451,018_S_0633,AD,M,84,4,MRI,MPR; ; N3; Scaled,Processed,7/17/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.45177740e-08  2.60947551e-04 -1.20454605e+00  9.97275009e+01]
@@ -24673,7 +24673,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-342,I92157,018_S_0335,AD,F,84,3,MRI,MPR; ; N3; Scaled,Processed,11/28/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+342,I92157,018_S_0335,AD,F,84,3,MRI,MPR; ; N3; Scaled,Processed,11/28/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47321804e-08  2.60722844e-04 -1.20670493e+00  9.93731079e+01]
@@ -24743,7 +24743,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-343,I81373,018_S_0335,AD,F,85,4,MRI,MPR; ; N3; Scaled,Processed,5/22/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+343,I81373,018_S_0335,AD,F,85,4,MRI,MPR; ; N3; Scaled,Processed,5/22/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[-1.64163951e-02 -1.24301672e-02 -1.20425168e+00  1.03803848e+02]
@@ -24814,7 +24814,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-344,I35014,018_S_0335,AD,F,84,2,MRI,MPR; ; N3; Scaled,Processed,5/31/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+344,I35014,018_S_0335,AD,F,84,2,MRI,MPR; ; N3; Scaled,Processed,5/31/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47151693e-08  2.60673477e-04 -1.20427128e+00  1.01399742e+02]
@@ -26392,7 +26392,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-366,I59174,012_S_0689,AD,M,64,2,MRI,MPR-R; ; N3; Scaled,Processed,7/19/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+366,I59174,012_S_0689,AD,M,64,2,MRI,MPR-R; ; N3; Scaled,Processed,7/19/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47895463e-08  2.62273732e-04 -1.20170935e+00  1.01399742e+02]
@@ -26463,7 +26463,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-367,I74659,012_S_0689,AD,M,65,4,MRI,MPR; ; N3; Scaled,Processed,7/19/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+367,I74659,012_S_0689,AD,M,65,4,MRI,MPR; ; N3; Scaled,Processed,7/19/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.45743523e-08  2.62431385e-04 -1.20212086e+00  1.10275482e+02]
@@ -26534,7 +26534,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-368,I59190,012_S_0689,AD,M,64,3,MRI,MPR; ; N3; Scaled,Processed,1/10/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+368,I59190,012_S_0689,AD,M,64,3,MRI,MPR; ; N3; Scaled,Processed,1/10/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.47802023e-08  2.62429907e-04 -1.20213290e+00  1.01399742e+02]
@@ -27043,7 +27043,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-375,I73538,005_S_0814,AD,F,72,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/05/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+375,I73538,005_S_0814,AD,F,72,3,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/05/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.52295398e-08  2.66909605e-04 -1.20410152e+00  1.04072998e+02]
@@ -27114,7 +27114,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-376,I85469,005_S_0814,AD,F,72,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/27/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+376,I85469,005_S_0814,AD,F,72,4,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/27/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.48031095e-08  2.65467346e-04 -1.19669994e+00  1.00904999e+02]
@@ -27185,7 +27185,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-377,I74600,005_S_0814,AD,F,71,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/20/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+377,I74600,005_S_0814,AD,F,71,2,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/20/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 166)
 affine: 
 [[ 3.52151116e-08  2.66868724e-04 -1.20399364e+00  1.01537003e+02]
@@ -29225,7 +29225,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-405,I40828,002_S_1018,AD,F,71,2,MRI,MPR; ; N3; Scaled,Processed,12/18/2006,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+405,I40828,002_S_1018,AD,F,71,2,MRI,MPR; ; N3; Scaled,Processed,12/18/2006,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.44087876e-08  2.63756909e-04 -1.20371695e+00  1.01399742e+02]
@@ -29295,7 +29295,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-406,I97022,002_S_1018,AD,F,72,4,MRI,MPR; ; N3; Scaled,Processed,12/07/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+406,I97022,002_S_1018,AD,F,72,4,MRI,MPR; ; N3; Scaled,Processed,12/07/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.43876717e-08  2.63755044e-04 -1.20430608e+00  1.01399742e+02]
@@ -29366,7 +29366,7 @@ magic           : b'n+1'","[array([[0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.],
        [0., 0., 0., ..., 0., 0., 0.]])]"
-407,I64750,002_S_1018,AD,F,71,3,MRI,MPR; ; N3; Scaled,Processed,6/14/2007,NiFTI,,2,"<class 'nibabel.nifti1.Nifti1Image'>
+407,I64750,002_S_1018,AD,F,71,3,MRI,MPR; ; N3; Scaled,Processed,6/14/2007,NiFTI,,1,"<class 'nibabel.nifti1.Nifti1Image'>
 data shape (256, 256, 170)
 affine: 
 [[ 3.43832894e-08  2.63725700e-04 -1.20427366e+00  1.00981682e+02]
